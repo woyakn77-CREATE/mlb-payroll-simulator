@@ -1,6 +1,6 @@
 # MLB Payroll-Adjusted Standings Simulator
 
-**Live:** https://woyakn77-create.github.io/mlb-payroll-simulator/ · [Back to portfolio](https://woyakn77-create.github.io/portfolio/)
+**Live:** https://woyakn77-create.github.io/mlb-payroll-simulator/ · [Back to portfolio](https://woyakn77-create.github.io/Portfolio/)
 
 What would the standings look like if every team's runs were scaled by how much it spends? Every regular-season game (2,429 in 2026, 2,106 in 1982) is replayed with each team's runs multiplied by a payroll factor, and the winner is re-decided.
 
